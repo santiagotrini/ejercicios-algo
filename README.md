@@ -17,9 +17,24 @@ Hola Maria, Pedro y Juan
 
 [Apunte en el blog](https://la35.net/c/c-data-types.html).
 
-1. Escribir un programa que use `cos()` y `sin()` definidos en `math.h` para imprimir el valor de cos<sup>2</sup>_&theta;_ + sin<sup>2</sup>_&theta;_
+1. Escribir un programa que use `cos()` y `sin()` definidos en `math.h` para imprimir el valor de cos<sup>2</sup>_&theta;_ + sen<sup>2</sup>_&theta;_
  para cualquier _&theta;_
  ingresado como argumento. ¿Por qué no da siempre 1?
 2. Escribir un programa que tome dos argumentos enteros positivos e imprima "verdadero" si alguno de los argumentos es divisible por el otro.
 3. Escribir un programa que tome tres argumentos enteros positivos e imprima "falso" si alguno es igual o mayor a la suma de los otros dos, o "verdadero" en caso contrario.
 4. Escribir un programa que tome dos números enteros x e y como argumentos e imprima la distancia entre el punto (x, y) y el origen (0, 0).
+5. Escribir un programa que tome dos números enteros a y b como argumentos e imprima un entero aleatorio entre a y b.
+6. Escribir un programa que imprima la suma de dos enteros aleatorios entre 1 y 6 como cuando tiras dos dados.
+7. Escribir un programa que imprima el valor de sen(2*t*) + sen(3*t*). Siendo _t_ un argumento del programa, de tipo `double`.
+8. Escribir un programa que acepte tres argumentos de tipo `double`: *x*<sub>0</sub>, *v*<sub>0</sub> y *t*. Imprimir el resultado de *x*<sub>0</sub> + *v*<sub>0</sub>*t* + *gt*<sup>2</sup>/2. O sea la ecuación de desplazamiento para un tiro vertical después de *t* segundos, con posición inicial *x*<sub>0</sub> y velocidad inicial *v*<sub>0</sub>.
+9. Escribir un programa que acepte dos argumentos: día y mes (ambos de tipo `int`). Imprimir "verdadero" si la fecha está entre el 20 de marzo y el 20 de junio, o "falso" de lo contrario.
+
+## Condicionales y loops en C
+
+[Apunte en el blog](https://la35.net/c/c-loops.html).
+
+1. asd
+2. asd
+3. asd
+4. asd
+5. asd
