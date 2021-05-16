@@ -33,9 +33,11 @@ Hola Maria, Pedro y Juan
 
 [Apunte en el blog](https://la35.net/c/c-loops.html).
 
-1. Escribir un programa que acepte tres argumentos enteros e imprima "igual" si los tres números son iguales o "falso" de lo contrario.
+1. Escribir un programa que acepte tres argumentos enteros e imprima "iguales" si los tres números son iguales o "no iguales" de lo contrario.
 2. Escribir una versión mejorada del programa para calcular las raíces de una función cuadrática, del apunte anterior. El programa debe imprimir un mensaje de error en los casos que el discriminante sea menor a cero (raíz negativa) o el argumento _a_ sea igual a cero (división por cero).
 3. Escribir un programa que simule tirar un dado "cargado". Imprimiendo el resultado de tirar el dado, teniendo en cuenta que la probabilidad de tirar un 1, 2, 3, 4 o 5 es de 1/8 y de tirar un 6 es de 3/8.
 4. Reescribir el ejercicio 1 del primer apunte, pero esta vez usando un argumento de línea de comandos para determinar cuántas veces imprimir "Hola mundo".
 5. Escribir un programa que imprima los números entre el 1000 y el 1999, mostrando 5 números por línea.
 6. Escribir un programa que acepte un argumento entero _n_ e imprima _n_ números aleatorios entre 0 y 100. Al finalizar el programa debe imprimir el valor promedio de los números que aparecieron.
+7. Escribir un programa que imprima una tabla con los valores de las funciones: ln _n_, _n_, *n* ln *n*, *n*<sup>2</sup>, *n*<sup>3</sup>, 2<sup>*n*</sup> para los valores de *n*: 1, 2, 4, 8, 16, ..., 2048. Usar caracteres `\t` para alinear las columnas y las funciones `pow()` y `log()` de `math.h`.
+8. Escribir un programa que acepte un argumento entero *n* y use dos _loops_ anidados para imprimir un patrón como el de un tablero de ajedrez usando asteriscos y espacios con *n* filas y columnas.
