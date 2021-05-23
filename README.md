@@ -63,17 +63,17 @@ Hola Maria, Pedro y Juan
 
 [Apunte en el blog](https://la35.net/c/c-data-types.html).
 
-1. Escribir un programa que use `cos()` y `sin()` definidos en `math.h` para imprimir el valor de cos<sup>2</sup>_&theta;_ + sen<sup>2</sup>_&theta;_
- para cualquier _&theta;_
- ingresado como argumento. ¿Por qué no da siempre 1?
+1. Escribir un programa que use `cos()` y `sin()` definidos en `math.h` para imprimir el valor de cos<sup>2</sup>_&theta;_ + sen<sup>2</sup>_&theta;_ para cualquier _&theta;_ ingresado como argumento.
 2. Escribir un programa que tome dos argumentos enteros positivos e imprima "verdadero" si alguno de los argumentos es divisible por el otro.
 3. Escribir un programa que tome tres argumentos enteros positivos e imprima "falso" si alguno es igual o mayor a la suma de los otros dos, o "verdadero" en caso contrario.
 4. Escribir un programa que tome dos números enteros x e y como argumentos e imprima la distancia entre el punto (x, y) y el origen (0, 0).
-5. Escribir un programa que tome dos números enteros a y b como argumentos e imprima un entero aleatorio entre a y b.
+5. Escribir un programa que tome dos números enteros *a* y *b* como argumentos e imprima un entero aleatorio entre *a* y *b*.
 6. Escribir un programa que imprima la suma de dos enteros aleatorios entre 1 y 6 como cuando tiras dos dados.
 7. Escribir un programa que imprima el valor de sen(2*t*) + sen(3*t*). Siendo _t_ un argumento del programa, de tipo `double`.
 8. Escribir un programa que acepte tres argumentos de tipo `double`: *x*<sub>0</sub>, *v*<sub>0</sub> y *t*. Imprimir el resultado de *x*<sub>0</sub> + *v*<sub>0</sub>*t* + *gt*<sup>2</sup>/2. O sea la ecuación de desplazamiento para un tiro vertical después de *t* segundos, con posición inicial *x*<sub>0</sub> y velocidad inicial *v*<sub>0</sub>.
 9. Escribir un programa que acepte dos argumentos: día y mes (ambos de tipo `int`). Imprimir "verdadero" si la fecha está entre el 20 de marzo y el 20 de junio, o "falso" de lo contrario.
+10. Escribir un programa que calcule la cantidad de dinero que uno tendría al cabo de *t* años invirtiendo *P* pesos con una tasa de interés anual *r*. La fórmula que hay que aplicar es *Pe*<sup>*rt*</sup>. Usar la función `exp()` de `math.h` para calcular *e*<sup>*x*</sup>.
+11. Escribir un programa que acepte tres argumentos *x*, *y* y *z* enteros e imprima "verdadero" si los números están en orden ascendente o descendente. Es decir si *x* > *y* > *z* o *x* < *y* < *z*. Si no lo están, imprimir "falso".  
 
 ## Condicionales y loops en C
 
@@ -85,5 +85,7 @@ Hola Maria, Pedro y Juan
 4. Reescribir el ejercicio 1 del primer apunte, pero esta vez usando un argumento de línea de comandos para determinar cuántas veces imprimir "Hola mundo".
 5. Escribir un programa que imprima los números entre el 1000 y el 1999, mostrando 5 números por línea.
 6. Escribir un programa que acepte un argumento entero _n_ e imprima _n_ números aleatorios entre 0 y 100. Al finalizar el programa debe imprimir el valor promedio de los números que aparecieron.
-7. Escribir un programa que imprima una tabla con los valores de las funciones: ln _n_, _n_, *n* ln *n*, *n*<sup>2</sup>, *n*<sup>3</sup>, 2<sup>*n*</sup> para los valores de *n*: 1, 2, 4, 8, 16, ..., 2048. Usar caracteres `\t` para alinear las columnas y las funciones `pow()` y `log()` de `math.h`.
+7. Escribir un programa que imprima una tabla con los valores de las funciones: ln _n_, _n_, *n* ln *n*, *n*<sup>2</sup>, *n*<sup>3</sup>, 2<sup>*n*</sup> para los valores de *n*: 1, 2, 4, 8, 16, 32, 64. Usar caracteres `\t` para alinear las columnas y las funciones `pow()` y `log()` de `math.h`.
 8. Escribir un programa que acepte un argumento entero *n* y use dos _loops_ anidados para imprimir un patrón como el de un tablero de ajedrez usando asteriscos y espacios con *n* filas y columnas.
+9. Escribir un programa que acepte un número arbitrario de argumentos enteros por línea de comandos e imprima el máximo de los números ingresados.
+10. Escribir un programa como el anterior pero que nos dé el máximo, el mínimo y el promedio de los números ingresados.

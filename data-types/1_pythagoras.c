@@ -1,5 +1,5 @@
 /*
  * Escribir un programa que imprima el valor de la identidad pitagorica.
  * Coseno cuadrado de un angulo mas seno cuadrado del mismo angulo
- * es igual a uno. Por que en el programa no siempre da uno?
+ * es igual a uno.
  */
