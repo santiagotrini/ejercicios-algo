@@ -89,3 +89,5 @@ Hola Maria, Pedro y Juan
 8. Escribir un programa que acepte un argumento entero *n* y use dos _loops_ anidados para imprimir un patrón como el de un tablero de ajedrez usando asteriscos y espacios con *n* filas y columnas.
 9. Escribir un programa que acepte un número arbitrario de argumentos enteros por línea de comandos e imprima el máximo de los números ingresados.
 10. Escribir un programa como el anterior pero que nos dé el máximo, el mínimo y el promedio de los números ingresados.
+11. Escribir un programa que use la función `atan2()` de `math.h` para calcular el ángulo que forma un vector de coordenadas (x, y) con el eje x. Por ejemplo el vector (1, 1) forma un ángulo de 45º y el vector (0, -1) un ángulo de 270º.
+La función `atan2(y, x)` calcula la arcotangente de y dividido x.
