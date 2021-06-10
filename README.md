@@ -73,7 +73,11 @@ Hola Maria, Pedro y Juan
 8. Escribir un programa que acepte tres argumentos de tipo `double`: *x*<sub>0</sub>, *v*<sub>0</sub> y *t*. Imprimir el resultado de *x*<sub>0</sub> + *v*<sub>0</sub>*t* + *gt*<sup>2</sup>/2. O sea la ecuación de desplazamiento para un tiro vertical después de *t* segundos, con posición inicial *x*<sub>0</sub> y velocidad inicial *v*<sub>0</sub>.
 9. Escribir un programa que acepte dos argumentos: día y mes (ambos de tipo `int`). Imprimir "verdadero" si la fecha está entre el 20 de marzo y el 20 de junio, o "falso" de lo contrario.
 10. Escribir un programa que calcule la cantidad de dinero que uno tendría al cabo de *t* años invirtiendo *P* pesos con una tasa de interés anual *r*. La fórmula que hay que aplicar es *Pe*<sup>*rt*</sup>. Usar la función `exp()` de `math.h` para calcular *e*<sup>*x*</sup>.
-11. Escribir un programa que acepte tres argumentos *x*, *y* y *z* enteros e imprima "verdadero" si los números están en orden ascendente o descendente. Es decir si *x* > *y* > *z* o *x* < *y* < *z*. Si no lo están, imprimir "falso".  
+11. Escribir un programa que acepte tres argumentos *x*, *y* y *z* enteros e imprima "verdadero" si los números están en orden ascendente o descendente. Es decir si *x* > *y* > *z* o *x* < *y* < *z*. Si no lo están, imprimir "falso".
+12. Escribir un programa que reciba como argumento un entero entre 0 y 99. El programa debe generar un número aleatorio en ese rango e imprimir "Ganaste!" si el número ingresado coincide con el número generado o "Perdiste!" de lo contrario.
+13. Escribir un programa que intercambie el valor de dos variables enteras `a` y `b`. Los valores iniciales de `a` y `b` son argumentos del programa. Imprimir los valores de `a` y `b` antes y después del cambio.
+14. Escribir un programa que acepte cuatro argumentos: las coordenadas de dos vectores en el plano e imprima el valor del producto entre dichos vectores.
+15. Escribir un programa que calcule el producto cruz entre dos vectores en el espacio. Usar 6 argumentos de tipo entero.
 
 ## Condicionales y loops en C
 
@@ -91,3 +95,7 @@ Hola Maria, Pedro y Juan
 10. Escribir un programa como el anterior pero que nos dé el máximo, el mínimo y el promedio de los números ingresados.
 11. Escribir un programa que use la función `atan2()` de `math.h` para calcular el ángulo que forma un vector de coordenadas (x, y) con el eje x. Por ejemplo el vector (1, 1) forma un ángulo de 45º y el vector (0, -1) un ángulo de 270º.
 La función `atan2(y, x)` calcula la arcotangente de y dividido x.
+12. Escribir un programa que acepte como argumento un número entero e imprima el número con los digitos al revés. Por ejemplo para la entrada 12345 debe imprimir 54321.
+13. Escribir un programa que use un ciclo `for` para imprimir los primeros *n* números de Fibonacci. Usar un argumento de línea de comandos para el valor de *n*. La sucesión de Fibonacci comienza así: 0, 1, 1, 2, 3, 5, 8, 13, 21 ... etc. El próximo número en la sucesión es la suma de los dos anteriores.
+14. Escribir un programa que calcule el factorial de un número *n* ingresado como argumento.
+15. Usando el Algoritmo de Euclides para encontrar el MCD (máximo común divisor) escribir un programa que acepte como argumento dos números enteros e imprima su MCD.
