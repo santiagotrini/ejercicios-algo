@@ -104,3 +104,12 @@ La función `atan2(y, x)` calcula la arcotangente de y dividido x.
 13. Escribir un programa que use un ciclo `for` para imprimir los primeros *n* números de Fibonacci. Usar un argumento de línea de comandos para el valor de *n*. La sucesión de Fibonacci comienza así: 0, 1, 1, 2, 3, 5, 8, 13, 21 ... etc. El próximo número en la sucesión es la suma de los dos anteriores.
 14. Escribir un programa que calcule el factorial de un número *n* ingresado como argumento.
 15. Usando el Algoritmo de Euclides para encontrar el MCD (máximo común divisor) escribir un programa que acepte como argumento dos números enteros e imprima su MCD.
+16. Escribir un programa que acepte un argumento *n* entero e imprima los números de 1 hasta *n* y su cuadrado.
+17. Escribir un programa que imprima los números en el rango del 1 al 100 que al ser divididos por un argumento entero *n*, su resto sea igual a 3.
+18. Escribir un programa que acepte dos argumentos enteros representando coordenadas en el plano cartesiano. El programa debe imprimir a que cuadrante pertenece el punto. Los cuadrantes del plano cartesiano se representan con los números romanos I, II, III y IV.
+19. Escribir un programa que acepte dos números enteros y calcule su cociente. Si la división de los números no tiene resto igual a cero entonces imprimir "No se pueden dividir" y salir del programa. Por ejemplo, *a* = 20, *b* = 5 debe imprimir 4. Con *a* = 20 y *b* = 3 debe imprimir "No se pueden dividir".
+20. Escribir un programa que acepte dos argumentos enteros *a* y *b* e imprima todos los números divisibles por 3 entre *a* y *b*. El segundo argumento tiene que ser mayor o igual que el primero. Si *a* es mayor a *b* el programa debe imprimir un mensaje indicando al usuario el uso correcto del programa y salir.
+
+## Arrays en C
+
+`PROXIMAMENTE`
