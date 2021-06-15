@@ -78,6 +78,11 @@ Hola Maria, Pedro y Juan
 13. Escribir un programa que intercambie el valor de dos variables enteras `a` y `b`. Los valores iniciales de `a` y `b` son argumentos del programa. Imprimir los valores de `a` y `b` antes y después del cambio.
 14. Escribir un programa que acepte cuatro argumentos: las coordenadas de dos vectores en el plano e imprima el valor del producto entre dichos vectores.
 15. Escribir un programa que calcule el producto cruz entre dos vectores en el espacio. Usar 6 argumentos de tipo entero.
+16. Escribir un programa que con cuatro argumentos enteros ingresados por línea de comandos calcule la suma de dos vectores en el plano e imprima el resultado.
+17. Escribir un programa que acepte como argumento un número entero de días. El programa debe imprimir la cantidad de años, semanas y días correspondiente. Ignorar los años bisiestos. Por ejemplo para 375 días como entrada, el programa imprime: "1 año, 1 semana, 3 días.".
+18. Escribir un programa que acepte dos argumentos, cantidad de horas trabajadas y salario por hora. El programa imprime el salario total del trabajador con un máximo de dos lugares después de la coma.
+19. Escribir un programa que acepte un argumento entero que representa una cantidad de dinero. El programa debe imprimir la combinación de billetes mínima necesaria para esa cantidad de dinero. Por ejemplo si ingresamos 570 el programa imprime: "1000: 0, 500: 1, 200: 0, 100: 0, 50: 1, 20: 1, 10: 0". Usar múltiplos de 10 solamente como entrada al programa.
+20. Escribir un programa que acepte 5 argumentos enteros e imprima la suma solamente de los argumentos que sean impares.
 
 ## Condicionales y loops en C
 
