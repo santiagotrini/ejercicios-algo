@@ -112,4 +112,8 @@ La función `atan2(y, x)` calcula la arcotangente de y dividido x.
 
 ## Arrays en C
 
-`PROXIMAMENTE`
+1. Escribir un programa que declare un array de tipo int que almacene los primeros diez numeros naturales. Imprimir el array un elemento por linea.
+2. Escribir un programa que haga lo mismo que el ejercicio anterior pero para los primeros n numeros naturales. El usuario ingrese n como argumento de linea de comandos.
+3. Escribir un programa que acepte dos argumentos n y m. El tamaño de un array el argumento n y que lo llene con numeros aleatorios entre 0 y m.
+4. Escribir un programa que genere un array de 100 lugares con enteros aleatorios entre 0 y 100. Calcular el promedio de los valores en el array.
+5. Escribir un programa que genere un array de 100 lugares con enteros aleatorios entre 0 y 100. Encontrar el maximo y el minimo del array.
