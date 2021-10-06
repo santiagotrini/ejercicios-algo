@@ -112,8 +112,13 @@ La función `atan2(y, x)` calcula la arcotangente de y dividido x.
 
 ## Arrays en C
 
-1. Escribir un programa que declare un array de tipo int que almacene los primeros diez numeros naturales. Imprimir el array un elemento por linea.
-2. Escribir un programa que haga lo mismo que el ejercicio anterior pero para los primeros n numeros naturales. El usuario ingrese n como argumento de linea de comandos.
-3. Escribir un programa que acepte dos argumentos n y m. El tamaño de un array el argumento n y que lo llene con numeros aleatorios entre 0 y m.
-4. Escribir un programa que genere un array de 100 lugares con enteros aleatorios entre 0 y 100. Calcular el promedio de los valores en el array.
-5. Escribir un programa que genere un array de 100 lugares con enteros aleatorios entre 0 y 100. Encontrar el maximo y el minimo del array.
+1. Escribir un programa que declare un *array* de tipo `int` que almacene los primeros diez números naturales. Imprimir el *array* un elemento por línea.
+2. Escribir un programa que haga lo mismo que el ejercicio anterior pero para los primeros *n* números naturales. El usuario ingresa *n* como argumento de línea de comandos.
+3. Escribir un programa que acepte dos argumentos *n* y *m*. El tamaño de un *array* es el argumento *n*. El programa llena el *array* con números aleatorios entre 0 y *m* y los imprime uno por línea.
+4. Escribir un programa que genere un *array* de 100 elementos con enteros aleatorios entre 0 y 100. Calcular el promedio de los valores en el *array*.
+5. Escribir un programa que genere un *array* de 100 lugares con enteros aleatorios entre 0 y 100. Encontrar el máximo y el mínimo del *array*.
+6. Escribir un programa que calcule el producto punto entre dos vectores de dimensión *N* y valores reales. Siendo *N* una constante conocida en tiempo de compilación al igual que los componentes de los vectores.
+7. Escribir un programa que genere un *array* de 100 elementos con valores aleatorios enteros del 0 al 9. Contar la cantidad de veces que aparece cada dígito en el *array* e imprimir una tabla con las frecuencias.
+8. Escribir un programa que declare el *array* de enteros 1, 2, 3, 4, 5, 6 e invierta el orden del mismo. Luego imprimirlo.
+9. Escribir un programa similar al anterior pero que invierta un *array* con los primeros 20 números pares.
+10. Escribir un programa que imprima tres *strings* representando una mano de truco aleatoria, por ejemplo: "Cuatro de copas", "Ancho de espada", "Tres de basto".
