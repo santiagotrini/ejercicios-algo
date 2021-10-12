@@ -128,3 +128,7 @@ La función `atan2(y, x)` calcula la arcotangente de y dividido x.
 14. Escribir un programa que declare un *array* de 40 posiciones representando un mazo de cartas para jugar al truco. El *array* debe estar ordenado por palo y número. Imprimir el mazo por consola.
 15. Escribir un programa que use el mazo de cartas del ejercicio anterior para repartir tres cartas. Mezclar el mazo antes de repartir. Imprimir una cantidad *n* de manos donde *n* es un argumento del programa.
 16. Escribir un programa que reciba un argumento de tipo *string* y busque en un *array* conocido en tiempo de compilación si el *string* está en el *array*. Si está el programa devuelve el índice del elemento y de lo contrario devuelve -1.
+17. Escribir un programa que genere una lista con los primeros *n* números de Fibonacci usando un *array* de dimensión *n*.
+18. Escribir un programa que traduzca una palabra ingresada como argumento a código Morse, separando cada letra con un espacio. El programa recibe su argumento en letras minísculas únicamente.
+19. Ampliar el programa anterior para traducir un mensaje de varias palabras. En la traducción a Morse cada letra está separada por un espacio y cada palabra con un `|`.
+20. Escribir un programa que convierta una palabra a todas letras minísculas. Ingresar la palabra como argumento.
