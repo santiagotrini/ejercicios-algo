@@ -122,3 +122,9 @@ La función `atan2(y, x)` calcula la arcotangente de y dividido x.
 8. Escribir un programa que declare el *array* de enteros 1, 2, 3, 4, 5, 6 e invierta el orden del mismo. Luego imprimirlo.
 9. Escribir un programa similar al anterior pero que invierta un *array* con los primeros 20 números pares.
 10. Escribir un programa que imprima tres *strings* representando una mano de truco aleatoria, por ejemplo: "Cuatro de copas", "Ancho de espada", "Tres de basto".
+11. Escribir un programa que reciba un *string* como argumento y cuente la cantidad de carácteres en la palabra.
+12. Escribir un programa que reciba un *string* como argumento y decida si la palabra es un palíndromo o no.
+13. Escribir un programa que reciba un argumento entero e imprima el mes del año correspondiente o un error si el argumento es menor a 1 o mayor a 12.
+14. Escribir un programa que declare un *array* de 40 posiciones representando un mazo de cartas para jugar al truco. El *array* debe estar ordenado por palo y número. Imprimir el mazo por consola.
+15. Escribir un programa que use el mazo de cartas del ejercicio anterior para repartir tres cartas. Mezclar el mazo antes de repartir. Imprimir una cantidad *n* de manos donde *n* es un argumento del programa.
+16. Escribir un programa que reciba un argumento de tipo *string* y busque en un *array* conocido en tiempo de compilación si el *string* está en el *array*. Si está el programa devuelve el índice del elemento y de lo contrario devuelve -1.
