@@ -132,3 +132,9 @@ La función `atan2(y, x)` calcula la arcotangente de y dividido x.
 18. Escribir un programa que traduzca una palabra ingresada como argumento a código Morse, separando cada letra con un espacio. El programa recibe su argumento en letras minísculas únicamente.
 19. Ampliar el programa anterior para traducir un mensaje de varias palabras. En la traducción a Morse cada letra está separada por un espacio y cada palabra con un `|`.
 20. Escribir un programa que convierta una palabra a todas letras minísculas. Ingresar la palabra como argumento.
+21. Escribir un programa que declare una matriz (*array bidimensional*) de 3 x 3 de números enteros. Los elementos de la matriz se conocen en tiempo de compilación. Imprimir la matriz, una fila por línea separando con espacios los elementos.
+22. Escribir un programa que acepte un argumento *n* y genere la matriz identidad de dimensión *n* x *n*. Usar arrays bidimensionales.
+23. Escribir un programa que declare un array de enteros de 3 x 3 y guarde en cada elemento los primeros 9 argumentos recibidos por línea de comandos.
+24. Escribir un programa que declare dos matrices de 3 x 3 *A* y *B* y calcule una tercera matriz *C* = *A* + *B*. Imprimir *C*.
+25. Escribir un programa que calcule la traza de una matriz cuadrada. La traza es la suma de los elementos de la diagonal principal.
+26. Escribir un programa que acepte un argumento *p* (probabilidad) y un argumento *n*. Crear una matriz que represente un tablero del juego buscaminas de *n* x *n* marcando con un uno las casillas con minas o cero de lo contrario. Usar la probabilidad *p* para determinar si un casillero tiene o no una mina.
