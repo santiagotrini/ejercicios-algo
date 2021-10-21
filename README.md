@@ -137,4 +137,6 @@ La función `atan2(y, x)` calcula la arcotangente de y dividido x.
 23. Escribir un programa que declare un array de enteros de 3 x 3 y guarde en cada elemento los primeros 9 argumentos recibidos por línea de comandos.
 24. Escribir un programa que declare dos matrices de 3 x 3 *A* y *B* y calcule una tercera matriz *C* = *A* + *B*. Imprimir *C*.
 25. Escribir un programa que calcule la traza de una matriz cuadrada. La traza es la suma de los elementos de la diagonal principal.
-26. Escribir un programa que acepte un argumento *p* (probabilidad) y un argumento *n*. Crear una matriz que represente un tablero del juego buscaminas de *n* x *n* marcando con un uno las casillas con minas o cero de lo contrario. Usar la probabilidad *p* para determinar si un casillero tiene o no una mina.
+26. Escribir un programa que acepte un argumento *p* (probabilidad) y un argumento *n*. Crear una matriz que represente un tablero del juego buscaminas de *n* x *n* marcando con un -1 las casillas con minas o cero de lo contrario. Usar la probabilidad *p* para determinar si un casillero tiene o no una mina.
+27. Siguiendo el programa anterior, volver a recorrer el array para llenar los casilleros sin minas con el número de minas vecinas. Consideren usar un array de *n*+2 x *n*+2 para representar el tablero.
+28. Escribir un programa que implemente la multiplicación de matrices cuadradas de *n* x *n*. Dar valores a las matrices *A* y *B* en tiempo de compilación. Usar tres ciclos anidados.
