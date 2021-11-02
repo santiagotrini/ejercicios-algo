@@ -143,3 +143,26 @@ La función `atan2(y, x)` calcula la arcotangente de y dividido x.
 29. Escribir un programa que declare y asigne valores a una matriz de 4 x 4. Imprimir el promedio de cada fila y cada columna.
 30. Escribir un programa que simule lo que se conoce como "caminos aleatorios". Usar una matriz de números enteros de 15 x 15 inicialmente llena de ceros. Poner un 1 en el centro de la matriz e ir llenando con unos representando los pasos del "caminante". La caminata termina cuando se sale de la matriz original. El caminante puede dar un paso a la vez a la izquierda, derecha, arriba o abajo. Pero no puede volver sobre sus pasos.
 Imprimir la matriz que representa la caminata al terminar.
+
+## Funciones
+
+1. Escribir una función `saludar()` que imprima un saludo en pantalla.
+2. Escribir una función `saludar()` que reciba un argumento de tipo *string* e imprima "Hola, <argumento>". Por ejemplo `saludar("Juan")` imprime "Hola, Juan".
+3. Escribir una función que devuelva 1 o 0 según sus tres argumentos enteros sean iguales entre sí o no.
+4. Escribir una función `is_triangle()` que reciba tres argumentos enteros y devuelva 1 si los tres argumentos pueden ser la longitud de los tres lados de un triángulo. Devolver cero en caso contrario.
+5. Escribir una función que calcule las raíces de una función cuadrática. Usar tres argumentos `double` *a*, *b* y *c*. Devolver `NAN` si no hay raíces reales.
+6. Escribir una función `random()` que reciba dos enteros *a* y *b* y devuelva un entero aleatorio entre *a* y *b*.
+7. Escribir una función que reciba un *array* y su longitud e imprima el *array* por consola, separando cada número con un espacio y un `\n` al terminar.
+8. Escribir una función que cuente la cantidad de carácteres en un _string_.
+9. Escribir una función que intercambie dos valores en un _array_ de enteros.
+10. Escribir una función que intercambie los valores de dos variables enteras.
+11. Escribir una función que devuelva el máximo en un _array_ de enteros.
+12. Escribir una función que devuelva el mínimo en un _array_ de enteros.
+13. Escribir una función que calcule el factorial de un entero _n_.
+14. Escribir una función que calcule el MCD de dos enteros usando el algoritmo de Euclides.
+15. Escribir una función que devuelva la enésima potencia de dos.
+16. Escribir una función que determine si un _string_ es palíndromo o no.
+17. Escribir una función que calcule el producto punto de dos vectores de dimensión N.
+18. Escribir una función que calcule el factorial de un número de manera recursiva.
+19. Escribir una función recursiva que calcule el enésimo número de Fibonacci.
+20. Escribir una función que busque un número en un _array_ de enteros y devuelva el índice en el _array_ si lo encuentra o -1 en caso contrario.
